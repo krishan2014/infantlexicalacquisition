@@ -1,0 +1,9 @@
+NLP
+natural language processing 
+language acquisition
+statistical language acquisition
+speech recognition
+machine learning
+unsupervised machine learning
+supervised machine learning
+k-means
